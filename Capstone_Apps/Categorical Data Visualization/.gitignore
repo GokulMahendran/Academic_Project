@@ -1,0 +1,4 @@
+capstonevenv
+*.pyc
+.DS_Store
+.env
